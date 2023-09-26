@@ -9,4 +9,4 @@ This is a simple dice game implemented in Python. The game is played between two
 # Implementation
 The game is implemented in JavaScript using a combination of functions and conditional statements. The random module is used to simulate the dice rolls. The program refreshes the web page for the players to roll the dice and displays the results. It then determines the winner or declares a draw.
 
-[Play the Dice game](https://satyamjha002.github.io/Dice-game/)
+[Play the Dice game]()
